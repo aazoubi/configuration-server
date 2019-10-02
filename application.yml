@@ -1,5 +1,0 @@
-message: "refresh during update"
-io:
-    crowdcode:
-        greeting:
-            welcome-message: "tach vom configserver"
